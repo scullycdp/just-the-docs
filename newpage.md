@@ -1,8 +1,8 @@
 ---
-title: Newpage2.0
+title: NEWPAGE
 layout: default
 ---
 
-# NEWPAGE
+# NEWPAGE2.0
 
 All notable user-facing changes to this project are documented in this file.
