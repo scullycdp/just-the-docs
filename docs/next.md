@@ -1,5 +1,5 @@
 ---
-title: NEST
+
 layout: default
 ---
  # Nesting title
