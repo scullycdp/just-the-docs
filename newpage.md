@@ -3,6 +3,8 @@ title: NEWPAGE
 layout: default
 ---
 
-# this is what's on the left side and in the tab
+# This is my first page
 
-All notable user-facing changes to this project are documented in this file.
+So the one pound thing is at the top of the page but the title is the name of that tab and the navigation on the left side
+
+## notes to self
