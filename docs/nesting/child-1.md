@@ -1,7 +1,7 @@
 ---
 layout: default
 title: child-1
-parent: nesting-parent
+parent: Nesting
 nav_order: 2
 ---
 
