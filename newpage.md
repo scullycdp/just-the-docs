@@ -3,6 +3,6 @@ title: NEWPAGE
 layout: default
 ---
 
-# NEWPAGE2.0
+# this is what's on the left side and in the tab
 
 All notable user-facing changes to this project are documented in this file.
