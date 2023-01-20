@@ -1,5 +1,5 @@
 ---
-title: NEWPAGE
+title: Newpage2.0
 layout: default
 ---
 
